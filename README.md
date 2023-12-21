@@ -1,1 +1,1 @@
-# B
+# Bald detector model
